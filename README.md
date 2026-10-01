@@ -1,3 +1,11 @@
+> [!CAUTION]
+> **ARCHIVED LEGACY POOL — DO NOT DEPLOY FOR QWERTYCOIN V2.**
+> This pool predates the current RandomX/EPoSE network, wallet RPC contracts,
+> atom-exact accounting, and fail-closed payout recovery. Use the
+> [official pool](https://pool.qwertycoin.org/) and its
+> [maintained source](https://github.com/qwertycoin-org/pool-qwertycoin-org.github.io).
+> Do not connect a funded wallet or current daemon to this code.
+
 qwertycoin-pool
 ====================
 
